@@ -2375,3 +2375,9 @@ if (typeof jQuery === 'undefined') {
   })
 
 }(jQuery);
+
+// form
+$('#submit').click(function(){
+alert('Success'); 
+console.log('Cool');
+});

@@ -190,3 +190,20 @@ footer p {
         clear: both;
     }
 }
+li {
+    text-align: left;   
+}
+#search {
+    text-align: center;
+}
+#gallery img {
+    height: 30%;
+    width: 30%;
+}
+#gallery {
+    text-align: center;
+}
+
+#mainimg {
+    text-align: center;
+}
